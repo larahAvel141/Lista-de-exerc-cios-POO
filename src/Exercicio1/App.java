@@ -8,7 +8,7 @@ public class App {
        antecessor e sucessor. */
 
        try (Scanner sc = new Scanner(System.in)) {
-        int valor;
+           int valor;
            int antecessor;
            int sucessor;
 

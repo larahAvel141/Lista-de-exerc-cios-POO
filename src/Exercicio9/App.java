@@ -9,6 +9,7 @@ public class App {
 
     String aux = JOptionPane.showInputDialog("Insira a frase");    
     String resp = "";  
+    
     for(int i= (aux.length() -1); i>=0; i--) { 
         resp += aux.charAt(i);
     }     
